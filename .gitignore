@@ -1,0 +1,16 @@
+venv/
+dist/
+**/.idea/
+__pycache__/
+
+*.log
+*.whl
+*.gz
+*.pyc
+*.iml
+*.ipynb
+
+.idea/*.iml
+coverage.xml
+
+
